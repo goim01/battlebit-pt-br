@@ -1,5 +1,5 @@
 Encoding=UTF-8
-Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
+Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 
 // @1= Esses símbolos são variáveis, NÃO ALTERE ESSES SINAIS.
 
@@ -22,11 +22,11 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 16=Conectado ao Servidor Principal...
 17=@1 amigos sincronizados.
 18=@1 está jogando BattleBit
-19=@1 Está jogando em [@2]
+19=@1 está jogando em [@2]
 20=@1 está agora jogando BattleBit
 21=@1 parou de jogar BattleBit
-22=@1 Conectou ao [@2]
-23=@1 Se desconectou do [@2]
+22=@1 conectou ao [@2]
+23=@1 se desconectou do [@2]
 24=Conectar
 25=Atualizar
 26=Nome do servidor
@@ -49,7 +49,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 43=@1 Partidas Vencidas
 44=@1 Disparos realizados
 45=@1 Metros percorridos
-46=@1 inimigos Abatidos
+46=@1 Inimigos Abatidos
 47=@1 Partidas perdidas
 48=Vídeo//For Pause Menu
 49=Áudio//For Pause Menu
@@ -59,8 +59,8 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 53=Resolução
 54=Sincronização Vertical
 55=Qualidade das sombras
-56=Hard and Soft Shadows //não utilizado
-57=Hard Shadows Only //não utilizado
+56=Sombras Rígidas e Suaves
+57=Apenas Sombras Rígidas
 58=Desativar sombras
 59=Qualidade Ultra
 60=Qualidade Alta
@@ -125,8 +125,8 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 119=@1 deixou seu esquadrão
 120=@1 agora é o líder do esquadrão
 121=Você agora é o líder do esquadrão!
-122=Você foi expulso do seu esquadrão!
-123=@1 foi desbloqueada!.
+122=Você foi expulso do seu esquadrão.
+123=@1 foi desbloqueada.
 124=Assalto
 125=Médico
 126=Suporte
@@ -144,9 +144,9 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 138=@1 segundos até início da partida...
 139=Ressurgir
 140=Pronto
-141=@1 Jogadores
-142=@1 Matou você com @2
-143=Você vai conseguir Ressurgir em @1 segundos...
+141=@1 jogadores
+142=@1 matou você com @2
+143=Você vai conseguir ressurgir em @1 segundos...
 144=Você foi morto.
 145=Você se matou com @1.
 146=Soldado do esquadrão @1
@@ -182,7 +182,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 176=Dispositivo secundário
 177=Arremessável
 178=Curto Alcance
-179=Alcance Médio
+179=Médio Alcance
 180=Canos
 181=Munição (Tipo)
 182=Empunhadura
@@ -190,7 +190,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 184=Tem certeza de que deseja desbloquear @1 por @2 pontos?
 185=Longo Alcance. 
 186=Vestimenta
-187=Coloração da pele
+187=Pele
 188=Granada de Fragmentação
 189=Mira padrão
 190=Holográfica
@@ -202,10 +202,10 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 196=Laser Triplo
 197=Bipé
 198=Empunhadura
-199=Silenciador
+199=Supressor
 200=Munição Normal
-201=Munição Traçante (every 3rd)
-202=Munição Traçante (Todas)
+201=Munição Traçante (cada 3º tiro)
+202=Munição Traçante (todas)
 203=Desconectar//To disconnect from server.Pause Menu
 204=Trocar de Time
 205=Entrar //Join squad
@@ -215,9 +215,9 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 209=Tem certeza?
 210=Selecionar Esquadrão
 211=Sair do Esquadrão
-212=@1 já está sendo usada.
+212=@1 já está sendo usado.
 213=@1 está disponível.
-214=@1 foi selecionada.
+214=@1 foi selecionado para esta função.
 215=@1 está bloqueada.
 216=Você já escolheu @1. 
 217=Você é a linha de frente, a primeira resposta contra o inimigo. Você deve atacar as forças inimigas à frente de maneira avançada. //Assault Role Description.
@@ -324,13 +324,13 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 318=Fechar Porta
 319=Abrir Porta
 320=Foi abatido: @1/nAbateu: @2
-321=@1Colete desbloqueado!
+321=@1 colete desbloqueado!
 322=@1 desbloqueado! //Face
 323=@1 desbloqueado! //Hair
 324=Uma nova cor de pele foi desbloqueada
 325=@1 desbloqueado! //Attachments
 326=@1 desbloqueado! //Weapons
-327=@1 desbloqueado! // As a Gadgets
+327=@1 desbloqueado! //Gadgets
 328=Bandeira Capturada
 329=Curando aliado
 330=Sangramento estancado
@@ -370,7 +370,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 364=Veículo inimigo destruído
 365=Volte para o campo de batalha ou você será morto: @1
 366=Deixe a base inimiga ou você será morto: @1
-367=Em combate
+367=Jogador está em combate
 368=Bomba Plantada
 369=Bomba Desarmada
 370=Destruir @1
@@ -403,12 +403,12 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 397=O jogo começa em @1
 398=Fim dos Tickets
 399=Fim do Tempo
-400=ABATES @1
+400=@1 ABATES
 401=[@1] DESBLOQUEADO
 402=@2 [@1] DESBLOQUEADO
 403=@1 DISPAROS NA CABEÇA
-404=Aliados Curados @1
-405=Objetivos de defendidos com time @1 
+404=CUROU @1 ALIADOS
+405=DEFENDEU @1 VEZES
 406=NÍVEL @1
 407=Sua conta foi banida dos servidores BattleBit. /?
 408=O servidor mestre não pôde verificar sua conta. /?
@@ -425,7 +425,8 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 419=[ Mata Mata em Equipe ]
 420=• Cada morte diminui 1 ticket da equipe inimiga.
 421=• Ganhe ao acabar com os tickets do time inimigo.
-422=• Ganhe por ter mais ticket sempre que o cronômetro de rodada terminar.		423=Conectado e sincronizado ao servidor...
+422=• Ganhe por ter mais ticket sempre que o cronômetro de rodada terminar.
+423=Conectado e sincronizado ao servidor...
 424=Falha ao conectar!
 425=Conectado!//						Loading Screen
 426=Agachar//							For Options
@@ -433,7 +434,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 428=Pular//							For Options
 429=Olhar Livre//						For Options
 430=Atirar//							For Options
-431=Abaixar mira//					For Options
+431=Usar Mira da Arma//					For Options
 432=Modo de Tiro//						For Options
 433=Recarregar//						For Options
 434=Checar Carregador//					For Options
@@ -738,7 +739,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 733=Você não tem permissão para criar um convite.
 734=Por favor, digite o código do seu clã.
 735=Código inválido ou expirado.
-736=@1/@2//		   Para chegar o carregador @1 = Munição atual,@2 = Munição máxima
+736=@1/@2//		   Para checar o carregador @1 = Munição atual,@2 = Munição máxima
 737=@1 FPS//	    					Frames per second
 738=Mostrar FPS//
 739=Mostrar estatísticas da rede//
@@ -757,7 +758,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 752=Brilho//
 753=Ambiente//
 754=Objetivo do Aliado//
-755=Objetivo do inimigo//
+755=Objetivo do Inimigo//
 756=Objetivo neutro//
 757=O ponto de ressurgimento não existe.//
 758=Bônus por Objetivo Neutralizado//Rewarding player.
@@ -793,7 +794,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 788=Você não pode mudar de time porque a rodada está quase no fim.
 789=Você não tem permissão para mudar de time enquanto seu time está perdendo.
 790=Pegar
-791=(Pressione) Para curar a si mesmo//For healing yourself from medic kit.
+791=(SEGURE) Para curar a si mesmo//For healing yourself from medic kit.
 792=Qualidade de Destruição//
 793=Nome do Esquadrão//
 794=Você não pode disparar @1 enquanto estiver deitado.
@@ -888,7 +889,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 883=Sem pontos.
 884=Bônus de reabastecimento
 885=Empurrar//
-886=Otimize o terreno(experimental - requer reinicialização)//
+886=Otimizar o terreno(experimental - requer reinicialização)//
 887=Otimizar terreno de forma assíncrona //
 888=Optimizando o terreno…//
 889=Começando em @1//Seconds
@@ -973,8 +974,8 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 968=Abate/min//
 969=Abates @1
 970=Mortes @1
-971=jogadas @1
-972=ganhas @1
+971=Partidas @1
+972=Ganhas @1
 973=Perdidas @1
 974=Pontos/min//Score per minute.
 975=EXP Ganhos @1
@@ -1039,7 +1040,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1034=Pressione para introduzir uma munição na câmara//
 1035=Desabilite o Chat de voz inimigo//
 1036=Silenciar//
-1037=desmutar//
+1037=Desmutar//
 1038=Pressione @1 para mutar
 1039=Pressione @1 para desmutar
 1040=Pressione para alternar a interface de visibilidade.
@@ -1061,7 +1062,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1056=Zoom in da torreta do veículo//
 1057=Zoom out da torreta do veículo//
 1058=Interface de usuário multi-threaded//
-1059=Mova-se para ali!//
+1059=Mova-se ali!//
 1060=O APC está ali!//
 1061=O Tanque está ali!//
 1062=Observe ali!//
@@ -1078,10 +1079,10 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1073=Tamanho da mira//
 1074=Cor da mira//
 1075=Opacidade da mira //
-1076=Ordens seguidas pelos esquadrão
-1077=Objetivos do esquadrão realizado
-1078=Defendendo o objetivo
-1079=Atacar o objetivo 
+1076=Ordens seguidas pelo esquadrão
+1077=Objetivo do esquadrão realizado
+1078=Defendeu o objetivo
+1079=Atacou o objetivo 
 1080=Fogo secundário//
 1081=Esquadrões nessa área//
 1082=Disparo de canhão//
@@ -1144,13 +1145,13 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1139=Esquadrão não tem pontos suficientes.
 1140=O esquadrão possui @1 pontos.
 1141=Segure para abrir o menu.//Hold the key to open the squad menu.
-1142=Corta a corda//
+1142=Cortar a corda//
 1143=Barreira HESCO. 
 1144=Não pode pedir Ressuprimento aéreo debaixo do teto.
 1145=Soltar Bandagem//Drop bandage to ground.
 1146=Sacos de areia
 1147=Barreira
-1148=Você @1 Ele @2//@1 = Seus Abates, @2 Abates do inimigo
+1148=Você @1 Inimigo @2//@1 = Seus Abates, @2 Abates do inimigo
 1149=Pegar Bandagem
 1150=Ponto de reagrupamento inimigo foi destruído
 1151=Ressuprimento de munição.
@@ -1179,7 +1180,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1174=Ressurgir
 1175=Você irá ressurgir em @1
 1176=Seu time está sem tickets.
-1177=Clicke para ficar pronto!
+1177=Clicar para ficar pronto!
 1178=Obrigado pelo seu suporte!//For patreon backers in main menu
 1179=Seu time perderá 1 ticket se você desistir!!!//
 1180=Cor da da marca de acerto padrão//
@@ -1219,7 +1220,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1214=Chat de voz//
 1215=Limite de atividade do microfone//
 1216=Você não pode mudar de time por conta do balanceamento.
-1217=Segura para usar a bandagem em você
+1217=Segure para usar a bandagem em você
 1218=Segure para Reanimar @1
 1219=Mata mata em equipe//Gamemode name
 1220=Avance e proteja//Gamemode name
@@ -1289,7 +1290,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1284=Resolução customizada//
 1285=O server está reiniciando
 1286=Nova atualização disponível!// 
-1287= O servidor que você está jogando atualizou para uma nova versão./nVocê pode entrar em servidores com a versão antiga ou atualizar o jogo para versão mais recente via Steam e jogar a nova versão.//
+1287=O servidor que você está jogando atualizou para uma nova versão./nVocê pode entrar em servidores com a versão antiga ou atualizar o jogo para versão mais recente via Steam e jogar a nova versão.//
 1288=@1 Pontos de esquadrão 
 1289=Você deve entrar em um Esquadrão para escolher uma das classes.//
 1290=Volume do som do abate
@@ -1320,7 +1321,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1315=Granada de fumaça Branca
 1316=Granada de luz
 1317=Granada de impacto
-1318= Seu Easy Anti Cheat não verificou seus status. Deploying não está disponível enquanto seu EAC verifica você. (Reinicie seu jogo para resolver esse problema)
+1318=Seu Easy Anti Cheat ainda não verificou seus status. Ressurgir não vai estar disponível até EAC verificar você. (Reinicie seu jogo para resolver esse problema)
 1319=O servidor está cheio.
 1320=Kill feed//
 1321=Trapaça - wallhack//
@@ -1359,7 +1360,7 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1354=Partida Rápida (@1 vs @1)//
 1355=Não pode ser colocado na água.
 1356=Não mostrar essa mensagem novamente.//
-1357=Atraso do tap de recarregamento//
+1357=Atraso do botão de recarregamento//
 1358=Jogador ou Veículo está bloqueado.
 1359=Não há espaço para ressurgir.
 1360=Somente o time vitorioso pode votar.
@@ -1372,5 +1373,5 @@ Atualização/Criação: Caduzuk ,Niks e HiToken (20/05/2022)
 1367=Os arquivos do jogo estão corrompidos.
 1368=Easy Anti Cheat detectou arquivos corrompidos./nPor favor, verifique a integridade dos arquivos do jogo usando a Steam./n/nNa Steam;/nBotão direito no BattleBit Remastered/Propriedades/Arquivos Locais/Verificar integridades dos arquivos…
 1369=Esse servidor está rodando em uma versão diferente.
-1370=Esse servidor está rodando em uma versão diferente da sua.Atualize seu jogo ou jogue em servidores com a mesma versão do seu jogo.
+1370=Esse servidor está rodando em uma versão diferente da sua. Atualize seu jogo ou jogue em servidores com a mesma versão do seu jogo.
 
