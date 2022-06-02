@@ -1,5 +1,5 @@
 Encoding=UTF-8
-Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
+Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 
 // @1= Esses símbolos são variáveis, NÃO ALTERE ESSES SINAIS.
 
@@ -22,11 +22,11 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 16=Conectado ao Servidor Principal...
 17=@1 amigos sincronizados.
 18=@1 está jogando BattleBit
-19=@1 está jogando em [@2]
+19=@1 Está jogando em [@2]
 20=@1 está agora jogando BattleBit
 21=@1 parou de jogar BattleBit
-22=@1 conectou ao [@2]
-23=@1 se desconectou do [@2]
+22=@1 Conectou ao [@2]
+23=@1 Se desconectou do [@2]
 24=Conectar
 25=Atualizar
 26=Nome do servidor
@@ -49,7 +49,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 43=@1 Partidas Vencidas
 44=@1 Disparos realizados
 45=@1 Metros percorridos
-46=@1 Inimigos Abatidos
+46=@1 inimigos Abatidos
 47=@1 Partidas perdidas
 48=Vídeo//For Pause Menu
 49=Áudio//For Pause Menu
@@ -124,9 +124,9 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 118=@1 entrou no seu esquadrão
 119=@1 deixou seu esquadrão
 120=@1 agora é o líder do esquadrão
-121=Você agora é o líder do esquadrão!
-122=Você foi expulso do seu esquadrão.
-123=@1 foi desbloqueada.
+121=Você agora é o líder do esquadrão.
+122=Você foi expulso do seu esquadrão!
+123=@1 foi desbloqueada!.
 124=Assalto
 125=Médico
 126=Suporte
@@ -144,9 +144,9 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 138=@1 segundos até início da partida...
 139=Ressurgir
 140=Pronto
-141=@1 jogadores
-142=@1 matou você com @2
-143=Você vai conseguir ressurgir em @1 segundos...
+141=@1 Jogadores
+142=@1 Matou você com @2
+143=Você vai conseguir Ressurgir em @1 segundos...
 144=Você foi morto.
 145=Você se matou com @1.
 146=Soldado do esquadrão @1
@@ -165,7 +165,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 159=Modo de segurança//For Options
 160=@1 conectado
 161=@1 desconectado
-162=Espere para ser ressuscitado ou pressione 'ESPAÇO' para desistir.
+162=Espere para ser ressuscitado ou segure 'ESPAÇO' para desistir.
 163=Você poderá desistir em @1 segundos...
 164=Soldado
 165=Mochila
@@ -215,7 +215,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 209=Tem certeza?
 210=Selecionar Esquadrão
 211=Sair do Esquadrão
-212=@1 já está sendo usado.
+212=@1 já está sendo usada.
 213=@1 está disponível.
 214=@1 foi selecionado para esta função.
 215=@1 está bloqueada.
@@ -243,7 +243,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 237=Os inimigos estão próximos (50 metros)
 238=Binóculos
 239=Claymore
-240=Pressione '@1' para pegar @2 carregador/n(@3 munições)
+240=Segure '@1' para pegar @2 carregador/n(@3 munições)
 241=Segure '@1' para mover o gatilho.
 242=Pressione '@1' para detonar
 243=Segure 'space' para pular .
@@ -314,7 +314,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 308=Desarmando a bomba.
 309=Pontos de agrupamento estão desativados. 
 310=Se este é o seu primeiro jogo, certifique-se de dar uma olhada no nosso Guia para Iniciantes!
-311=Pressione '@1' para recuperar o claymore.
+311=Segure '@1' para recuperar o claymore.
 312=Função é reservada para Líderes de Esquadrão.
 313=Função do Líder de Esquadrão
 314=Esta função está disponível apenas para líderes de esquadrão.
@@ -324,13 +324,13 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 318=Fechar Porta
 319=Abrir Porta
 320=Foi abatido: @1/nAbateu: @2
-321=@1 colete desbloqueado!
+321=@1 Colete desbloqueado!
 322=@1 desbloqueado! //Face
 323=@1 desbloqueado! //Hair
 324=Uma nova cor de pele foi desbloqueada
 325=@1 desbloqueado! //Attachments
 326=@1 desbloqueado! //Weapons
-327=@1 desbloqueado! //Gadgets
+327=@1 desbloqueado! // As a Gadgets
 328=Bandeira Capturada
 329=Curando aliado
 330=Sangramento estancado
@@ -370,7 +370,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 364=Veículo inimigo destruído
 365=Volte para o campo de batalha ou você será morto: @1
 366=Deixe a base inimiga ou você será morto: @1
-367=Jogador está em combate
+367=Em combate
 368=Bomba Plantada
 369=Bomba Desarmada
 370=Destruir @1
@@ -403,12 +403,12 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 397=O jogo começa em @1
 398=Fim dos Tickets
 399=Fim do Tempo
-400=@1 ABATES
+400=ABATES @1
 401=[@1] DESBLOQUEADO
 402=@2 [@1] DESBLOQUEADO
 403=@1 DISPAROS NA CABEÇA
-404=CUROU @1 ALIADOS
-405=DEFENDEU @1 VEZES
+404=Aliados Curados @1
+405=Objetivos de defendidos com time @1 
 406=NÍVEL @1
 407=Sua conta foi banida dos servidores BattleBit. /?
 408=O servidor mestre não pôde verificar sua conta. /?
@@ -425,8 +425,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 419=[ Mata Mata em Equipe ]
 420=• Cada morte diminui 1 ticket da equipe inimiga.
 421=• Ganhe ao acabar com os tickets do time inimigo.
-422=• Ganhe por ter mais ticket sempre que o cronômetro de rodada terminar.
-423=Conectado e sincronizado ao servidor...
+422=• Ganhe por ter mais ticket sempre que o cronômetro de rodada terminar.		423=Conectado e sincronizado ao servidor...
 424=Falha ao conectar!
 425=Conectado!//						Loading Screen
 426=Agachar//							For Options
@@ -758,7 +757,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 752=Brilho//
 753=Ambiente//
 754=Objetivo do Aliado//
-755=Objetivo do Inimigo//
+755=Objetivo do inimigo//
 756=Objetivo neutro//
 757=O ponto de ressurgimento não existe.//
 758=Bônus por Objetivo Neutralizado//Rewarding player.
@@ -794,7 +793,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 788=Você não pode mudar de time porque a rodada está quase no fim.
 789=Você não tem permissão para mudar de time enquanto seu time está perdendo.
 790=Pegar
-791=(SEGURE) Para curar a si mesmo//For healing yourself from medic kit.
+791=(Segure) Para curar a si mesmo//For healing yourself from medic kit.
 792=Qualidade de Destruição//
 793=Nome do Esquadrão//
 794=Você não pode disparar @1 enquanto estiver deitado.
@@ -889,7 +888,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 883=Sem pontos.
 884=Bônus de reabastecimento
 885=Empurrar//
-886=Otimizar o terreno(experimental - requer reinicialização)//
+886=Otimize o terreno(experimental - requer reinicialização)//
 887=Otimizar terreno de forma assíncrona //
 888=Optimizando o terreno…//
 889=Começando em @1//Seconds
@@ -974,8 +973,8 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 968=Abate/min//
 969=Abates @1
 970=Mortes @1
-971=Partidas @1
-972=Ganhas @1
+971=jogadas @1
+972=ganhas @1
 973=Perdidas @1
 974=Pontos/min//Score per minute.
 975=EXP Ganhos @1
@@ -1040,7 +1039,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 1034=Pressione para introduzir uma munição na câmara//
 1035=Desabilite o Chat de voz inimigo//
 1036=Silenciar//
-1037=Desmutar//
+1037=desmutar//
 1038=Pressione @1 para mutar
 1039=Pressione @1 para desmutar
 1040=Pressione para alternar a interface de visibilidade.
@@ -1151,7 +1150,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 1145=Soltar Bandagem//Drop bandage to ground.
 1146=Sacos de areia
 1147=Barreira
-1148=Você @1 Inimigo @2//@1 = Seus Abates, @2 Abates do inimigo
+1148=Você @1 Ele @2//@1 = Seus Abates, @2 Abates do inimigo
 1149=Pegar Bandagem
 1150=Ponto de reagrupamento inimigo foi destruído
 1151=Ressuprimento de munição.
@@ -1360,7 +1359,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 1354=Partida Rápida (@1 vs @1)//
 1355=Não pode ser colocado na água.
 1356=Não mostrar essa mensagem novamente.//
-1357=Atraso do botão de recarregamento//
+1357=Atraso do tap de recarregamento//
 1358=Jogador ou Veículo está bloqueado.
 1359=Não há espaço para ressurgir.
 1360=Somente o time vitorioso pode votar.
@@ -1374,4 +1373,5 @@ Atualização/Criação: Caduzuk ,Niks, HiToken, Goim (02/06/2022)
 1368=Easy Anti Cheat detectou arquivos corrompidos./nPor favor, verifique a integridade dos arquivos do jogo usando a Steam./n/nNa Steam;/nBotão direito no BattleBit Remastered/Propriedades/Arquivos Locais/Verificar integridades dos arquivos…
 1369=Esse servidor está rodando em uma versão diferente.
 1370=Esse servidor está rodando em uma versão diferente da sua. Atualize seu jogo ou jogue em servidores com a mesma versão do seu jogo.
+
 
