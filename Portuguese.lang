@@ -18,7 +18,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 12=Steam não está aberta, abre a Steam e reinicie o jogo. 
 13=Erro ao conectar-se ao Servidor Principal!        
 14=Por favor inicie o jogo com a steam aberta.
-15=Conectado a Steam...
+15=Conectado ao Steam...
 16=Conectado ao Servidor Principal...
 17=@1 amigos sincronizados.
 18=@1 está jogando BattleBit
@@ -413,7 +413,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 407=Sua conta foi banida dos servidores BattleBit. /?
 408=O servidor mestre não pôde verificar sua conta. /?
 409=Seu nome Steam atual não é permitido em servidores BattleBit. /?
-410=Não foi possivel verificar seu token do Steam. /?
+410=Não foi possível verificar seu token do Steam. /?
 411=Marcadores de acerto//For Options
 412=Carregado Partida...
 413=[Avance e Proteja]
@@ -525,7 +525,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 520=Trilho de baixo//
 521=Trilho lateral//
 522=Carregadores//
-523=Camuflagems//
+523=Skins//
 524=Miras Telescopicas//
 525=Mira Principal//
 526=Mira Superior//
@@ -1002,7 +1002,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 997=Objetivos//
 998=Disparos//
 999=Status das classes//
-1000=Abates por Atropelamento @1//Number of times user killed someone with this vehicle.
+1000= Abates por Atropelamento @1//Number of times user killed someone with this vehicle.
 1001=Veículos Destruidos@1//Number of times player destroyed this vehicle.
 1002=Você precisa ser nível @1 para subir de nível de prestígio.
 1003=Você realmente quer subir de nível de prestígio? Seu nível, armas, camuflagem de armas e progressão serão resetados.//
