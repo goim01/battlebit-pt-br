@@ -13,7 +13,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 7=Essa versão não representa o produto final. Todos os modelos, modos de jogo e mapas estão ainda em desenvolvimento e estão sujeitos a mudanças.
 8=O Playtest do BattleBit é completamente grátis para testar, porém, nosso acesso antecipado será pago. 
 9=Conectando ao Servidor Principal... 
-10=Conectando a Steam...
+10=Conectando ao Steam...
 11=Bem vindo @1!
 12=Steam não está aberta, abre a Steam e reinicie o jogo. 
 13=Erro ao conectar-se ao Servidor Principal!        
@@ -33,7 +33,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 27=Mapa
 28=Modo de jogo
 29=Quantidade de Jogadores
-30= Capítulo @1 - Part @2 /n @3
+30=Capítulo @1 - Parte @2 /n @3
 31=Continuar//For Menu
 32=Novo jogo
 33=@1 Abates
@@ -80,17 +80,17 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 74=Gamma
 75=@1%
 76=Tela Cheia
-77=Volume geral			//For Options [master volume]
-78=Efeitos				//For Options [game volume]
-79=Música			//For Options [music volume]
-80=Volume de Fala			//For Options [speech volume]
+77=Volume geral			            //For Options [master volume]
+78=Efeitos				            //For Options [game volume]
+79=Música			                        //For Options [music volume]
+80=Volume de Fala			            //For Options [speech volume]
 81=Chat de Voz				//For Options [voip volume]
 82=Tecla : @1
 83=Pressione qualquer tecla para atribuir @1/nPress 'ESC' para cancelar
 84=Andar para Frente//			For Options
-85=Andar para Traz//			For Options
-86=Andar para Esquerda//				For Options
-87=Andar para Direita//				For Options
+85=Andar para Traz//			            For Options
+86=Andar para Esquerda//		            For Options
+87=Andar para Direita//			For Options
 88=Inclinar para a direita//			For Options
 89=Inclinar para a esquerda//			For Options
 90=Correr//					For Options
@@ -247,7 +247,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 241=Segure '@1' para mover o gatilho.
 242=Pressione '@1' para detonar
 243=Segure 'space' para pular .
-244=MMB
+244=Botão do meio do Mouse
 245=Segure '@1' para arrastar @2
 246=Solte '@1' para deixar de arrastar @2
 247=@1 (Equipe Morta) @2
@@ -413,7 +413,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 407=Sua conta foi banida dos servidores BattleBit. /?
 408=O servidor mestre não pôde verificar sua conta. /?
 409=Seu nome Steam atual não é permitido em servidores BattleBit. /?
-410=O token do Steam não foi verificado. /?
+410=Não foi possivel verificar seu token do Steam. /?
 411=Marcadores de acerto//For Options
 412=Carregado Partida...
 413=[Avance e Proteja]
@@ -525,7 +525,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 520=Trilho de baixo//
 521=Trilho lateral//
 522=Carregadores//
-523=Skins//
+523=Camuflagems//
 524=Miras Telescopicas//
 525=Mira Principal//
 526=Mira Superior//
@@ -1002,7 +1002,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 997=Objetivos//
 998=Disparos//
 999=Status das classes//
-1000= Abates por Atropelamento @1//Number of times user killed someone with this vehicle.
+1000=Abates por Atropelamento @1//Number of times user killed someone with this vehicle.
 1001=Veículos Destruidos@1//Number of times player destroyed this vehicle.
 1002=Você precisa ser nível @1 para subir de nível de prestígio.
 1003=Você realmente quer subir de nível de prestígio? Seu nível, armas, camuflagem de armas e progressão serão resetados.//
@@ -1016,7 +1016,7 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 1011=Reportar//
 1012=Vandalismo//
 1013=Trapaça//
-1014=Exploiting//
+1014=Abuso de Bug//
 1015=Abuso de Chat de voz//
 1016=Abuso de Chat de texto//
 1017=Linguagem tóxica//
@@ -1373,5 +1373,4 @@ Atualização/Criação: Caduzuk ,Niks, HiToken e Goim (02/06/2022)
 1368=Easy Anti Cheat detectou arquivos corrompidos./nPor favor, verifique a integridade dos arquivos do jogo usando a Steam./n/nNa Steam;/nBotão direito no BattleBit Remastered/Propriedades/Arquivos Locais/Verificar integridades dos arquivos…
 1369=Esse servidor está rodando em uma versão diferente.
 1370=Esse servidor está rodando em uma versão diferente da sua. Atualize seu jogo ou jogue em servidores com a mesma versão do seu jogo.
-
-
+1371=Novo Servidor.
